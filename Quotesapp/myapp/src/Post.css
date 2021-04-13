@@ -1,0 +1,14 @@
+.post-header{
+    background-color: rgb(224, 210, 236);
+    margin-top: 70px;
+    width:550px;
+    height:400px;
+    margin-left:400px;
+}
+body li{
+list-style-type:none;
+}
+.post-footer{
+    background-color: pink;margin-top:350px;
+    
+}

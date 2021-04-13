@@ -1,0 +1,27 @@
+body{
+    background-color:rgb(253, 232, 232);
+}
+.header{
+    display: flex;
+    background-color: blue;
+    color:white;
+}
+.header h2{
+    margin-left: 20px;
+}
+.addpost{
+    margin-left: 700px;
+    
+    color:white;
+    
+}
+.profile{
+    margin-left: 50px;
+    color:white;
+}
+.logout{
+    margin-left: 50px;
+    color:white;
+   
+
+}
